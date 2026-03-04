@@ -1,6 +1,6 @@
 1.PROJECT TITLE:
 
-Banking Data Analytics Dashboard
+Revenue Of Different Loan Type & Analyse The Defaulter Ratio (2024-2025)
 
 2.PROJECT OVERVIEW:
 
