@@ -101,7 +101,7 @@ Observed seasonal trends in sales
 
 Compared target vs actual performance
 
-🔟 How to Use
+10.HOW TO USE:
 
 Open MAIN MINI PROJECT.pbix in Power BI Desktop
 
@@ -111,12 +111,8 @@ Hover over visuals for detailed insights
 
 Navigate between report pages
 
-1️⃣1️⃣ Project File
+11.PROJECT FILE:
 
 MAIN MINI PROJECT.pbix
 
-1️⃣2️⃣ Author
 
-Name: Siva Kumar
-Domain: Data Analytics
-Tool: Power BI
