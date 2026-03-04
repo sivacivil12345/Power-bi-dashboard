@@ -1,14 +1,14 @@
-1️⃣ Project Title
+1.PROJECT TITLE:
 
 Banking Data Analytics Dashboard
 
-2️⃣ Project Overview
+2.PROJECT OVERVIEW:
 
 This project is a Power BI dashboard developed to analyze banking data across multiple dimensions such as products, locations, time period, and performance metrics.
 
 The objective of this project is to transform raw banking data into meaningful insights using data modeling, DAX calculations, and interactive visualizations.
 
-3️⃣ Objectives
+3.OBJECTIVE:
 
 Analyze sales/loan disbursement performance
 
@@ -20,7 +20,7 @@ Track yearly and monthly trends
 
 Provide business insights for decision-making
 
-4️⃣ Tools & Technologies Used
+4.TOOL & TECHNOLOGIES USED:
 
 Power BI Desktop (.pbix file)
 
@@ -30,7 +30,7 @@ DAX (Calculated Columns & Measures)
 
 Excel / CSV (Data Source)
 
-5️⃣ Data Description
+5.DATA DESCRIPTION:
 
 The dataset includes:
 
@@ -50,7 +50,7 @@ Achievement %
 
 Customer Count
 
-6️⃣ Data Modeling
+6.DATA MODELING:
 
 Fact Table: Sales/Loan Transactions
 
@@ -66,7 +66,7 @@ Bank Dimension
 
 Relationships are created using Primary and Foreign Keys.
 
-7️⃣ Key DAX Measures
+7.KEY DAX MEASURES:
 
 Examples:
 
@@ -82,7 +82,7 @@ YoY Growth
 
 Location-wise Performance
 
-8️⃣ Dashboard Features
+8.DASHBOARD MEASURES:
 
 ✔ KPI Cards (Total Sales, Target, Achievement %)
 ✔ Bar Chart (Product-wise Performance)
@@ -91,7 +91,7 @@ Location-wise Performance
 ✔ Slicers (Year, Product, Location, Bank)
 ✔ Interactive Drill-down
 
-9️⃣ Insights Generated
+9.INSIGHTS GENERATED:
 
 Identified top-performing products
 
