@@ -9,11 +9,10 @@ The objective of this project is to transform raw banking data into meaningful i
 
 3.OBJECTIVE:
 
-Analyze sales/loan disbursement performance
-Compare Target vs Achievement
-Identify top-performing locations and products
-Track yearly and monthly trends
-Provide business insights for decision-making
+To analysis bank wise total loan amount disbursement and revenue generate
+Highest revenue generates loan product to the bank
+To find the average tenure of each loan 
+To analysis of loan status of every customer
 
 4.TOOL & TECHNOLOGIES USED:
 
@@ -30,7 +29,6 @@ Product Name
 Location
 Financial Year
 Sales Amount / Loan Amount
-Target
 Achievement %
 Customer Count
 
@@ -38,30 +36,24 @@ Customer Count
 
 Fact Table: Sales/Loan Transactions
 Dimension Tables:
-Date Dimension
-Product Dimension
-Location Dimension
+Customer Dimension
 Bank Dimension
 Relationships are created using Primary and Foreign Keys.
 
 7.KEY DAX MEASURES:
 
 Examples:
-Total Sales
-Total Target
-Achievement %
-Average Profit
-YoY Growth
-Location-wise Performance
+Total loan disbursement
+Total revenue
+Average credit score
 
 8.DASHBOARD MEASURES:
 
-✔ KPI Cards (Total Sales, Target, Achievement %)
-✔ Bar Chart (Product-wise Performance)
-✔ Line Chart (Yearly Trend)
-✔ Pie Chart (Location Contribution)
-✔ Slicers (Year, Product, Location, Bank)
-✔ Interactive Drill-down
+✔ KPI Cards (Total loan disbursement,total revenue)
+✔ Pie chart (sum of revenue by loan type)
+✔ Funnel Chart (avg interst rate)
+✔ Donut chart (avg tenure by loan type)
+✔ Coloumn chart (Count of loan status)
 
 9.INSIGHTS GENERATED:
 
